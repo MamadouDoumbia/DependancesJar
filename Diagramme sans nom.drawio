@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T14:52:49.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="kqmTaPjX3dJtGJeO1Umz" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T16:22:47.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="3e6l2Uk4fRG12mIv2J9K" version="21.0.10" type="github">
   <diagram name="Page-1" id="v63S46q5yMBqqZmRK9G6">
     <mxGraphModel dx="1961" dy="671" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="esFvUMw4x8bWNT_ROYQ_-7" value="CloudWatch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="761" y="1094.5" width="60" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="esFvUMw4x8bWNT_ROYQ_-8" value="Kinesis Data Stream" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="esFvUMw4x8bWNT_ROYQ_-8" value="Kinesis Data Anaytics" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="293.25" y="916" width="80.75" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="esFvUMw4x8bWNT_ROYQ_-9" value="Kinesis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
